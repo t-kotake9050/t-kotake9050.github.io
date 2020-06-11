@@ -6,10 +6,19 @@
     <description>Recent content in Posts on tkblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 09 Jun 2020 04:16:59 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 16:57:54 -0700</lastBuildDate>
     
 	<atom:link href="http://t-kotake9050.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LPIC102学習経過</title>
+      <link>http://t-kotake9050.github.io/post/20200611/</link>
+      <pubDate>Wed, 10 Jun 2020 16:57:54 -0700</pubDate>
+      
+      <guid>http://t-kotake9050.github.io/post/20200611/</guid>
+      <description>Ping-tで学習を勧めているのですが、実際に使ったことがない コマンドや見たことすらないコマンドが多くて覚えづらいです。 しかし、初見のコマンドの問題でも、オプション指定の問題では 101で覚えた知識でなんとなく正解することができているので 少しは成長を感じることができました。</description>
+    </item>
     
     <item>
       <title>Lpic101取得</title>
